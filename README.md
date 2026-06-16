@@ -16,13 +16,57 @@ These tools improved visibility into day-to-day operations, reduced manual follo
 
 ---
 
-## Repository Contents
+# Sample Screenshots
 
-### 1. Inventory Management and Stock Monitoring
+The screenshots below were taken from anonymized versions of the operational monitoring workbooks that I maintained during my role at **EOC Medical Supplies LLC**. They illustrate the reporting structures and monitoring approaches used to support day-to-day healthcare operations.
+
+## Inventory Management and Stock Monitoring
+
+Supports inventory control by tracking stock availability, stock movement, replenishment requirements, and inventory status across multiple product categories.
+
+![Inventory Monitoring](screenshots/inventory_monitoring.png)
+
+---
+
+## Asset Installation and Location Tracker
+
+Used to monitor machine installations, equipment deployment status, operational progress, and machine locations.
+
+![Asset Tracker](screenshots/asset_tracker.png)
+
+---
+
+## Sales and Consumption Analysis
+
+Tracks product sales, consumption patterns, delivery fulfillment, and product utilization trends to support operational planning.
+
+![Sales and Consumption Analysis](screenshots/sales_consumption.png)
+
+---
+
+## Delivery Scheduling and Logistics Tracker
+
+Provides visibility into planned deliveries and supports coordination between stakeholders to ensure timely execution.
+
+![Delivery Scheduling](screenshots/delivery_schedule.png)
+
+---
+
+## Shipment Tracking and Status Monitoring
+
+Monitors shipment progress, supplier communications, purchase order status, and estimated delivery timelines to improve supply chain visibility.
+
+![Shipment Monitoring](screenshots/shipment_monitoring.png)
+
+---
+
+# Projects Included
+
+## 1. Inventory Management and Stock Monitoring
 
 **File:** `Inventory_Management_and_Stock_Monitoring.xlsx`
 
-**Purpose**
+### Purpose
 
 * Monitor disposable item inventory
 * Track sample inventory movement
@@ -30,7 +74,7 @@ These tools improved visibility into day-to-day operations, reduced manual follo
 * Identify low-stock situations requiring replenishment
 * Monitor expiry dates and inventory availability
 
-**Tools and Techniques Used**
+### Tools and Techniques Used
 
 * Multi-sheet workbook design
 * Inventory transaction logging
@@ -41,7 +85,7 @@ These tools improved visibility into day-to-day operations, reduced manual follo
 * Expiry tracking
 * Formula-driven reporting
 
-**Skills Demonstrated**
+### Skills Demonstrated
 
 * Inventory Analytics
 * Stock Monitoring
@@ -51,11 +95,11 @@ These tools improved visibility into day-to-day operations, reduced manual follo
 
 ---
 
-### 2. Asset Installation and Location Tracker
+## 2. Asset Installation and Location Tracker
 
 **File:** `Asset_Installation_and_Location_Tracker.xlsm`
 
-**Purpose**
+### Purpose
 
 * Track machine installations
 * Monitor equipment deployment status
@@ -63,7 +107,7 @@ These tools improved visibility into day-to-day operations, reduced manual follo
 * Maintain maintenance history
 * Monitor equipment conditions
 
-**Tools and Techniques Used**
+### Tools and Techniques Used
 
 * Macro-enabled Excel workbook (.xlsm)
 * Status tracking
@@ -72,7 +116,7 @@ These tools improved visibility into day-to-day operations, reduced manual follo
 * Asset registry maintenance
 * Preventive maintenance monitoring
 
-**Skills Demonstrated**
+### Skills Demonstrated
 
 * Asset Management
 * Equipment Tracking
@@ -82,11 +126,11 @@ These tools improved visibility into day-to-day operations, reduced manual follo
 
 ---
 
-### 3. Sales and Consumption Analysis
+## 3. Sales and Consumption Analysis
 
 **File:** `Sales_and_Consumption_Analysis.xlsx`
 
-**Purpose**
+### Purpose
 
 * Monitor product sales and consumption
 * Track product utilization
@@ -94,7 +138,7 @@ These tools improved visibility into day-to-day operations, reduced manual follo
 * Identify pending and completed transactions
 * Analyze product demand trends
 
-**Tools and Techniques Used**
+### Tools and Techniques Used
 
 * Product-level transaction tracking
 * Multi-sheet categorization
@@ -104,7 +148,7 @@ These tools improved visibility into day-to-day operations, reduced manual follo
 * Order status monitoring
 * Formula-driven analysis
 
-**Skills Demonstrated**
+### Skills Demonstrated
 
 * Sales Analysis
 * Consumption Analysis
@@ -114,18 +158,18 @@ These tools improved visibility into day-to-day operations, reduced manual follo
 
 ---
 
-### 4. Delivery Scheduling and Logistics Tracker
+## 4. Delivery Scheduling and Logistics Tracker
 
 **File:** `Delivery_Scheduling_and_Logistics_Tracker.xlsx`
 
-**Purpose**
+### Purpose
 
 * Coordinate delivery schedules
 * Monitor delivery timelines
 * Support communication between stakeholders
 * Improve visibility into planned deliveries
 
-**Tools and Techniques Used**
+### Tools and Techniques Used
 
 * Schedule monitoring
 * Calendar-based coordination
@@ -133,7 +177,7 @@ These tools improved visibility into day-to-day operations, reduced manual follo
 * Stakeholder reporting
 * Logistics coordination
 
-**Skills Demonstrated**
+### Skills Demonstrated
 
 * Logistics Coordination
 * Schedule Management
@@ -143,11 +187,11 @@ These tools improved visibility into day-to-day operations, reduced manual follo
 
 ---
 
-### 5. Shipment Tracking and Status Monitoring
+## 5. Shipment Tracking and Status Monitoring
 
 **File:** `Shipment_Tracking_and_Status_Monitoring.xlsx`
 
-**Purpose**
+### Purpose
 
 * Track shipment progress
 * Monitor supplier communications
@@ -155,7 +199,7 @@ These tools improved visibility into day-to-day operations, reduced manual follo
 * Monitor estimated delivery timelines
 * Consolidate shipment updates
 
-**Tools and Techniques Used**
+### Tools and Techniques Used
 
 * Shipment lifecycle monitoring
 * Purchase order tracking
@@ -166,7 +210,7 @@ These tools improved visibility into day-to-day operations, reduced manual follo
 * Summary reporting
 * Multi-source data consolidation
 
-**Skills Demonstrated**
+### Skills Demonstrated
 
 * Supply Chain Reporting
 * Shipment Analytics
@@ -176,9 +220,9 @@ These tools improved visibility into day-to-day operations, reduced manual follo
 
 ---
 
-## Technologies and Reporting Techniques Used
+# Technologies and Reporting Techniques Used
 
-### Microsoft Excel Features
+## Microsoft Excel Features
 
 * Advanced Excel
 * Multi-sheet workbook architecture
@@ -193,7 +237,7 @@ These tools improved visibility into day-to-day operations, reduced manual follo
 * Status monitoring
 * Macro-enabled workbooks
 
-### Reporting Techniques
+## Reporting Techniques
 
 * Operational Monitoring
 * Inventory Reporting
@@ -207,22 +251,27 @@ These tools improved visibility into day-to-day operations, reduced manual follo
 
 ---
 
-## Business Impact
+# Business Impact
 
 These monitoring workbooks played an important role in supporting healthcare operations by:
 
-* Improving visibility into inventory and stock availability
-* Supporting machine deployment and maintenance tracking
-* Monitoring product consumption and fulfillment status
-* Improving shipment and delivery coordination
-* Enhancing reporting accuracy
-* Reducing reliance on manual follow-ups through centralized monitoring
-  
+* Improving visibility into inventory and stock availability.
+* Supporting machine deployment and maintenance tracking.
+* Monitoring product consumption and fulfillment status.
+* Improving shipment and delivery coordination.
+* Enhancing reporting accuracy.
+* Reducing reliance on manual follow-ups through centralized monitoring.
+
 ---
 
-## About Me
+# Disclaimer
+
+The original workbooks contained confidential operational information belonging to EOC Medical Supplies LLC. The versions shared in this repository have been modified and anonymized to remove company-sensitive data while preserving the reporting structures, analytical methodologies, and operational approaches used in practice.
+
+---
+
+# About Me
 
 I am a Data Analyst and IT Professional with experience in banking systems support, operational reporting, inventory monitoring, procurement coordination, and business process improvement. I enjoy transforming operational data into meaningful insights that support informed decision-making and operational efficiency.
 
-**LinkedIn:** Add your LinkedIn profile here
 **GitHub:** https://github.com/leoloujeffreydev
